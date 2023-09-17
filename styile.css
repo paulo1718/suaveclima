@@ -1,0 +1,12 @@
+@media (max-width: 768px) {
+    /* Estilos para telas menores */
+    h1 {
+        font-size: 28px;
+    }
+
+    .hero p {
+        font-size: 16px;
+    }
+
+    /* Outros ajustes conforme necessário */
+}
